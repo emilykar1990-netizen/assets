@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Fake USDT for police scam demonstration (Nile testnet only)",
+  "website": "https://tether.to",
+  "coingecko": "tether"
+}
